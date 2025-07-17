@@ -1,9 +1,11 @@
 # Tic Tac Toe Game 🕹️
 
-A simple **Tic Tac Toe (X-O)** game built using **Java** in **Android Studio**.  
-Challenge your friends and enjoy this classic game right on your Android device.
+[![Build](https://img.shields.io/badge/build-passing-brightgreen.svg)](#)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Language](https://img.shields.io/badge/language-Java-orange.svg)](#)
+[![Platform](https://img.shields.io/badge/platform-Android-green.svg)](#)
 
----
+A simple **Tic Tac Toe (X-O)** game built using **Java** in **Android Studio**.
 
 ## 🎮 Features
 
